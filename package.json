@@ -1,6 +1,6 @@
 {
   "name": "hexo-autonofollow",
-  "version": "1.0.0",
+  "version": "1.1",
   "description": "Adds nofollow attribute to all external links in your hexo posts automatically.",
   "main": "index.js",
   "scripts": {
